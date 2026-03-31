@@ -1,5 +1,5 @@
 # 📊 Financial Transactions & Data Quality Dashboard
-
+<img src="image/Financial Transactions & Data Quality Dashboard_page-0001.jpg" width="800">
 ## 📌 Project Overview
 
 This project presents an interactive Power BI dashboard focused on analyzing financial transactions along with identifying and monitoring data quality issues.
@@ -11,16 +11,16 @@ The dashboard not only provides business insights but also highlights critical d
 ## 🖼 Dashboard Preview
 
 ### 🔹 Executive Overview
-![Executive Overview](image/Financial Transactions & Data Quality Dashboard_page-0001.jpg)
+<img src="image/Financial Transactions & Data Quality Dashboard_page-0001.jpg" width="800">
 
 ### 🔹 Transaction Analysis
-![Transaction Analysis](image/Financial Transactions & Data Quality Dashboard_page-0002.jpg)
+<img src="image/Financial Transactions & Data Quality Dashboard_page-0002.jpg" width="800">
 
 ### 🔹 Data Quality Dashboard
-![Data Quality](image/Financial Transactions & Data Quality Dashboard_page-0003.jpg)
+<img src="image/Financial Transactions & Data Quality Dashboard_page-0003.jpg" width="800">
 
 ### 🔹 Insights Summary
-![Insights Page](image/Financial Transactions & Data Quality Dashboard_page-0004.jpg)
+<img src="image/Financial Transactions & Data Quality Dashboard_page-0004.jpg" width="800">
 
 ---
 
