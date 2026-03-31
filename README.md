@@ -92,3 +92,47 @@ The dashboard not only provides business insights but also highlights critical d
 ---
 
 ## 📂 Project Structure
+financial-transactions-data-quality-dashboard/
+│
+├── Data/
+├── image/
+│ ├── Financial Transactions & Data Quality Dashboard_page-0001.jpg
+│ ├── Financial Transactions & Data Quality Dashboard_page-0002.jpg
+│ ├── Financial Transactions & Data Quality Dashboard_page-0003.jpg
+│ └── Financial Transactions & Data Quality Dashboard_page-0001.jpg
+├── Financial Transactions & Data Quality Dashboard.pbix
+├── Financial Transactions & Data Quality Dashboard.pdf
+└── README.md
+
+---
+
+## 📥 How to Use
+
+1. Download the `.pbix` file  
+2. Open in Power BI Desktop  
+3. Interact with filters, slicers, and drill-through features  
+
+---
+
+## 📌 Dataset
+
+The dataset consists of financial transaction records with multiple data quality challenges.
+
+> Note: Dataset can be shared upon request or via a public source if applicable.
+
+---
+
+## 🚀 Future Improvements
+
+- Automated data validation rules  
+- Real-time data integration  
+- Enhanced anomaly detection  
+- Improved data preprocessing pipeline  
+
+---
+
+## 🤝 Connect with Me
+
+If you found this project interesting, feel free to connect or provide feedback!
+
+---
