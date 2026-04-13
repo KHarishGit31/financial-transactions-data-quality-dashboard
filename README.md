@@ -118,7 +118,7 @@ financial-transactions-data-quality-dashboard/
 
 The dataset consists of financial transaction records with multiple data quality challenges.
 
-> Note: Dataset can be shared upon request or via a public source if applicable.
+> 
 
 ---
 
