@@ -127,7 +127,7 @@ The dataset consists of financial transaction records with multiple data quality
 - Automated data validation rules  
 - Real-time data integration  
 - Enhanced anomaly detection  
-- Improved data preprocessing pipeline  
+- Improved data preprocessing pipeline   
 
 ---
 
